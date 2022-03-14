@@ -1,6 +1,6 @@
 <?php
 $database_username = 'root';
-$database_password = 'xainnaxa';
+$database_password = '';
 
 try {
     $con = new PDO( 'mysql:host=localhost;dbname=pruebas', $database_username, $database_password);
