@@ -1,6 +1,0 @@
-INSERT INTO = Een nieuwe rij met data in een database toevoegen.
-SELECT = Data ophalen uit een database.
-UPDATE = Data aanpassen in een database.
-DELETE = Data verwijderen uit een database.
-CREATE DATABASE = Database aanmaken.
-CREATE TABLE = Tabel aanmaken.INSERT INTO = Een nieuwe rij met data in een database toevoegen.
